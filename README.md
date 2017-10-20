@@ -1,2 +1,3 @@
 # hello-world
-A short description goes here.
+A short description goes here. 
+:bowtie: :shipit:
